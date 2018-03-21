@@ -1,0 +1,3 @@
+Some of the files and code provided (preprocessing, pyramid scheme) are adapted from existing copyrighted code.
+In order to preserve the anonymity of the submission, these copyrights have been removed.
+Upon acceptance or publication these copyrights will be be added back, or all adapted code will be reimplemented if necessary.
